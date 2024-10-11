@@ -1,0 +1,137 @@
+https://39035.hosts2.ma-cloud.nl/HTML/hoofdstuk1/m1bo/
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylee.css">
+    <link rel="stylesheet" href="stylee.js">
+    <title>website over mijzelf</title>
+</head>
+<body>
+<article>   
+    <table>
+        <tr>
+            <td><img src="foto vanzelf.png" alt=""></td>
+            <td>
+                <h1>Othman El Boudaati</h1>
+                <p>
+                Ik ben Othman El Boudaati. ik ben geboren in amsterdam. mijn vorige school was yuverta college het was een kleine groene school met redelijk weinig mensen. ik wil later of een web developer of een game developer worden ik heb nog niet besloten welke ik zou willen doen.
+                </p>
+            </td>
+        </tr>
+    </table>  
+    
+    <table>
+        <tr>
+            <td> 
+            <p>
+                <h1>amsterdam</h1>
+               ik ben geboren in Amsterdam-West in mijn eigen huis ik ben dus niet in een ziekenhuis geboren. Mijn hele leven woon ik al in dit huis dus ik heb nooit verhuist. 
+            </p>
+            </td> 
+            <td><img src="80160_fullimage_rondvaartboot vaart onder brug door met mooie wolkenlucht © illusion-x via pixabay_1150x663_438x353.jpg"></td> 
+        </tr>
+   </table>
+
+   <table>
+        <tr>
+            <td><img src="houten-vloer-buiten.webp" alt=""></td>
+            <td>
+                <h1>in mijn vrije tijd...</h1>
+                <p>
+                    In mijn  vrije tijd spel ik vaak games op mijn laptop de genre maakt mij meestal niet uit als het een goede game is speel ik het. Naast dat ga ik ook best vaak naar buiten met vrienden dan lopen we door het stad heen of zijn we op een pleintje
+                </p>
+            </td>
+
+        </tr>
+   </table>
+
+   <table>
+    <tr>
+        <td> 
+            <h1>wat kan ik al</h1>
+            <p>
+                Ik ben redelijk goed in Engels en socialiseren maar ik heb nooit eerder een game gemaakt zelfs niet op scratch ik heb wel eerder een website gemaakt op code academy maar voor de rest heb ik geen experience er mee
+            </p>
+        </td>
+        <td><img src="basis-programmeren.jpg" alt=""></td>
+    </tr>
+    </table>
+    
+    <h1>Mijn top tien auto's</h1>
+        <p>1. Tesla Model S</p>
+        <p>2. Audi A4</p>
+        <p>3. BMW 3 Serie </p>
+        <p>4. Mercedes-Benz E-Klasse</p>
+        <p>5. Toyota Camry</p>
+        <p>6. Honda Civic </p>
+        <p>7. Ford Mustang</p>
+        <p>8.  Porsche 911</p>
+        <p>9.  Subaru Outback</p>
+        <p>10. Rivian R1T</p>
+
+
+    
+</article>
+</body>
+</html>
+
+
+
+
+
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+    box-shadow: 5px 5px 40px;
+    margin-bottom: 50px;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 100%;
+    margin-bottom: 5%;
+    margin-left: 10px;
+}
+
+h1{
+    margin-left: 10px;
+}
+
+body{
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: blanchedalmond;
+    color: black;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+article{
+    width: 60vw;
+    margin: auto;
+    padding: 80px;
+    background-color: antiquewhite;
+} 
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  
+  .light-mode {
+    background-color: white;
+    color: black;
+}
+
+  
